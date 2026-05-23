@@ -376,11 +376,6 @@ curl -s http://localhost:8080/products/prod_000001
 
 ---
 
-# AI Usage Disclosure
 
-AI tools were used for:
-- implementation guidance
-- debugging assistance
-- project structuring
 
 All code was reviewed, modified, tested, and validated manually.
