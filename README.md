@@ -14,7 +14,7 @@ The implementation focuses on:
 - API design
 - validation
 - pagination
-- performance-aware list responses
+- performance-aware list responses.
 
 ---
 
