@@ -16,7 +16,7 @@ The implementation focuses on:
 - pagination
 - performance-aware list responses
 
----
+--
 
 # Tech Stack
 
