@@ -23,7 +23,7 @@ The implementation focuses on:
 - Go
 - net/http
 - In-memory data structures (maps + slices)
-- sync.Mutex for concurrency safety
+- sync.Mutex for concurrency safety.
 
 ---
 
